@@ -10,24 +10,30 @@ This is Activity 1 ...
 ## Activity 1 Screenshots
 
 - **Spring Tool Suite About Box**
-    ![Spring Boot Tool Suite](./SpringBootToolSuite.png)
+
+  ![Spring Boot Tool Suite](./SpringBootToolSuite.png)
 
 - **Default Whitelabel Error Page**
-    ![Whitelabel Error Page](./WhitelabelErrorPage.png)
+
+  ![Whitelabel Error Page](./WhitelabelErrorPage.png)
 
 - **Spring Boot Terminal**
-    ![Spring Boot Running](./SpringBootTerminal.png)
+
+  ![Spring Boot Running](./SpringBootTerminal.png)
 
 - **Hello World Page**
-    ![Hello World](./HelloWorld.png)
+
+  ![Hello World](./HelloWorld.png)
 
 - **Build Success Terminal**
-    ![Build Success](./BuildSuccess.png)
+
+  ![Build Success](./BuildSuccess.png)
 
 - **Running Jar File in Terminal**
-    ![Jar File Running](./RunningJarFile.png)
-    <br>
-    ![Jar Hello World](./JarFileHelloWorld.png)
+
+  ![Jar File Running](./RunningJarFile.png)
+  <br>
+  ![Jar Hello World](./JarFileHelloWorld.png)
 
 ## Conclusion
 ...
