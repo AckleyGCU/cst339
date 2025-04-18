@@ -36,6 +36,20 @@ The goal of Activity 2 is to cover the basics of controllers, models, and views 
     ![Home Page](./home.png)
 
 #### Part 2: Creating Forms with Data Validation Using Spring MVC Screenshots
+- **Login Form With No Data Validation**
+
+    ![Login Form With No Data Validation](./loginPage.png)
+
+- **Login Form Values From Console**
+
+    ![Login Form Values From Console](./loginPageConsole.png)
+
+- **Orders Page**
+    ![Orders Page](./ordersPage.png)
+
+- **Login Form With Validation Errors**
+
+    ![Login Form With Data Validation Errors](./loginPageValidationErrors.png)
 
 #### Part 3: Creating Layouts Using Thymeleaf Screenshots
 
