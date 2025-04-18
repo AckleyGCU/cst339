@@ -25,7 +25,7 @@ The goal of Activity 2 is to cover the basics of controllers, models, and views 
 
 - **Hello World Using Tymeleaf Template**
 
-    ![Hello World Using Tymeleaf Template](./helloWorldTymeleaf.png)
+    ![Hello World Using Tymeleaf Template](./helloWorldTymeLeaf.png)
 
 - **Hello World With Anchor Tags**
 
