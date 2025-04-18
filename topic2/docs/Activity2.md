@@ -45,6 +45,7 @@ The goal of Activity 2 is to cover the basics of controllers, models, and views 
     ![Login Form Values From Console](./loginPageConsole.png)
 
 - **Orders Page**
+  
     ![Orders Page](./ordersPage.png)
 
 - **Login Form With Validation Errors**
