@@ -1,7 +1,7 @@
 # Activity 2
 
 - Author:  Charles Ackley
-- Date:  4/15/2025
+- Date:  4/18/2025
 
 ## Introduction
 
@@ -53,4 +53,13 @@ The goal of Activity 2 is to cover the basics of controllers, models, and views 
 
 #### Part 3: Creating Layouts Using Thymeleaf Screenshots
 
+- **Login Page Using Layouts**
+    ![Orders Page](./loginPageUsingLayouts.png)
+
+- **Orders Page Using Layouts**
+
+    ![Login Form With Data Validation Errors](./ordersPageUsingLayouts.png)
+
 ## Conclusion
+
+In Activity 2 I used Spring MVC and Thymeleaf to cover the basics of models, views, controllers, forms, data validation, and layouts. 
